@@ -4,6 +4,8 @@ Given a CSV file representing a series of tables, this program implements a rota
 
 The input is a CSV file with the columns id and json (sample added in the repo). The json column contains a table represented in a continous array.
 
+Run `npm install` to download all required libraries before running the program or the tests.
+
 The program can be called using the following command:
 
 `node cli.js input.csv > output.csv`
