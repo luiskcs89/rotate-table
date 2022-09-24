@@ -1,0 +1,19 @@
+{
+  "name": "rotate-table",
+  "version": "1.0.0",
+  "description": "rotate table",
+  "main": "rotate-table.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-stream": "^0.2.0",
+    "fast-csv": "^4.3.6",
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "jest": "^29.0.3"
+  }
+}
